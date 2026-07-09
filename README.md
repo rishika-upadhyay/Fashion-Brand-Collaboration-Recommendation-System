@@ -53,11 +53,11 @@ Fashion-Brand-Collaboration-Recommendation-System
 
 ### Main Dashboard
 
-![Main Dashboard](images/Dashboard.png)
+![Main Dashboard](Dashboard.png)
 
 ### Dashboard Insights
 
-![Dashboard Insights](images/dashboard2.png)
+![Dashboard Insights](dashboard2.png)
 
 ---
 
