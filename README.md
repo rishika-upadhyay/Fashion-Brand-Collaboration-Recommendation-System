@@ -49,9 +49,15 @@ Fashion-Brand-Collaboration-Recommendation-System
 
 ---
 
-##  Dashboard Preview
+## 📊 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+### Main Dashboard
+
+![Main Dashboard](images/Dashboard.png)
+
+### Dashboard Insights
+
+![Dashboard Insights](images/dashboard2.png)
 
 ---
 
