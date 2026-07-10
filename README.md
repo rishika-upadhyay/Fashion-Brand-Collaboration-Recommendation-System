@@ -41,21 +41,23 @@ This project helps analyze brand characteristics and recommend potential collabo
 
 ---
 
-## Project Workflow
+##  Project Workflow
 
- Data Collection
+```
+Data Collection
       ↓
- Data Cleaning
+Data Cleaning
       ↓
- Exploratory Data Analysis
+Exploratory Data Analysis (EDA)
       ↓
- Feature Engineering
+Feature Engineering
       ↓
- Recommendation System
+Machine Learning Recommendation System
       ↓
- Power BI Dashboard
+Power BI Dashboard
       ↓
- Business Insights
+Business Insights
+```
 
  ---
 
